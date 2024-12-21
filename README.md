@@ -1,6 +1,16 @@
-# Stroke-Prediction
+# Stroke Prediction
 
-Machine Learning Approach with different feature selection techniques. <br/><br/>
+This project utilizes machine learning and feature selection techniques to predict the likelihood of a stroke. The dataset contains key health indicators, and various models like Gradient Boosting are used to make accurate predictions.
+
+## Key Features:
+- **Feature Selection**: Lasso, Fisher Score, and Information Gain.
+- **Model**: Gradient Boosting for prediction.
+- **Interpretability**: SHAP analysis for model explanation.
+
+
+## Tech Stack
+- **Python**: Scikit-learn, SHAP
+- **Libraries**: Jupyter Notebook, Pandas, Matplotlib
 
 Full Website - https://stroke-prediction-6cm6.onrender.com <br/>
 (It will take some time to load the full website. Be patient!) <br/>
