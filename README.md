@@ -1,5 +1,8 @@
 # Stroke Prediction
 
+
+![image](https://github.com/user-attachments/assets/a89c3b7c-ba66-4f99-9473-cf104952ef34)
+
 This project utilizes machine learning and feature selection techniques to predict the likelihood of a stroke. The dataset contains key health indicators, and various models like Gradient Boosting are used to make accurate predictions.
 
 ## Key Features:
